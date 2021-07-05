@@ -1,0 +1,7 @@
+###
+get http://localhost:4004/Procurement/PurchaseOrders
+Accept-Language: de-De
+
+###
+get http://localhost:4004/Procurement/PurchaseOrders
+Accept-Language: en-En
